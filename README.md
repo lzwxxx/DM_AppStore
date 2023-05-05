@@ -36,5 +36,5 @@ Machine Learning Algorithms used:
 
 * Feedforward Neural Network
 
-* Note: Performed Ensemble Learning (Boosting & Bagging) on the above algorithms
+*Note: Performed Ensemble Learning (Boosting & Bagging) on the above algorithms
 
