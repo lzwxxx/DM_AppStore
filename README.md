@@ -18,6 +18,23 @@ According to data provided by LinkedIn on Google Play store applications, 68% of
 
 _____________________________________
 
-datacleaning.ipynb : is where we did our data cleaning and Exploratory Data Analysis (EDA)
+Machine Learning Algorithms used:
 
-models_techniques.ipynb : is where we utilise the machine learning algorithms
+* Logistic Regression
+
+* Decision Tree
+
+* Random Forest
+
+* Naive Bayes 
+
+* K-Nearest Neighbors (KNN)
+
+* Support Vector Machine (SVM)
+
+* eXtreme Gradient Boosting (XGBoost)
+
+* Feedforward Neural Network
+
+* Note: Performed Ensemble Learning (Boosting & Bagging) on the above algorithms
+
